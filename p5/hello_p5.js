@@ -5,7 +5,7 @@ function setup(){
 let x = 200;
 
 function draw(){
-  background(0);
+  //background(0);
   fill(0, 0, 255);
   ellipse(x, 200, 100, 50);
   x++;
